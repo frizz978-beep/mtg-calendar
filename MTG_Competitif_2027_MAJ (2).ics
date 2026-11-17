@@ -1,0 +1,158 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//OpenAI//MTG Competitive Calendar//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:MTG Compétitif
+X-WR-CALDESC:Pro Tours, Magic World Championship et Regional Championships annoncés
+BEGIN:VEVENT
+UID:mtg-competitive-2027-1@openai
+DTSTAMP:20261117T141000Z
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270301
+SUMMARY:Pro Tour Nauctis – MagicCon Detroit
+LOCATION:Detroit\, Michigan\, USA
+CATEGORIES:Pro Tour
+DESCRIPTION:Événement annoncé. Les dates des Regional Championships peuvent être précisées ou modifiées par les organisateurs. Vérifier magic.gg/schedule pour les mises à jour.
+END:VEVENT
+BEGIN:VEVENT
+UID:mtg-competitive-2027-2@openai
+DTSTAMP:20261117T141000Z
+DTSTART;VALUE=DATE:20270514
+DTEND;VALUE=DATE:20270517
+SUMMARY:Pro Tour – MagicCon Tokyo
+LOCATION:Tokyo\, Japan
+CATEGORIES:Pro Tour
+DESCRIPTION:Événement annoncé. Les dates des Regional Championships peuvent être précisées ou modifiées par les organisateurs. Vérifier magic.gg/schedule pour les mises à jour.
+END:VEVENT
+BEGIN:VEVENT
+UID:mtg-competitive-2027-3@openai
+DTSTAMP:20261117T141000Z
+DTSTART;VALUE=DATE:20270827
+DTEND;VALUE=DATE:20270830
+SUMMARY:Pro Tour – MagicCon Las Vegas
+LOCATION:Las Vegas\, Nevada\, USA
+CATEGORIES:Pro Tour
+DESCRIPTION:Événement annoncé. Les dates des Regional Championships peuvent être précisées ou modifiées par les organisateurs. Vérifier magic.gg/schedule pour les mises à jour.
+END:VEVENT
+BEGIN:VEVENT
+UID:mtg-competitive-2027-4@openai
+DTSTAMP:20261117T141000Z
+DTSTART;VALUE=DATE:20271203
+DTEND;VALUE=DATE:20271206
+SUMMARY:Magic World Championship 33 – MagicCon Amsterdam
+LOCATION:Amsterdam\, Netherlands
+CATEGORIES:World Championship
+DESCRIPTION:Événement annoncé. Les dates des Regional Championships peuvent être précisées ou modifiées par les organisateurs. Vérifier magic.gg/schedule pour les mises à jour.
+END:VEVENT
+BEGIN:VEVENT
+UID:mtg-competitive-2027-5@openai
+DTSTAMP:20261117T141000Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270111
+SUMMARY:Regional Championship – China (Shanghai)
+LOCATION:Shanghai\, China
+CATEGORIES:Regional Championship
+DESCRIPTION:Événement annoncé. Les dates des Regional Championships peuvent être précisées ou modifiées par les organisateurs. Vérifier magic.gg/schedule pour les mises à jour.
+END:VEVENT
+BEGIN:VEVENT
+UID:mtg-competitive-2027-6@openai
+DTSTAMP:20261117T141000Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270111
+SUMMARY:Regional Championship – Southeast Asia (Bangkok)
+LOCATION:Bangkok\, Thailand
+CATEGORIES:Regional Championship
+DESCRIPTION:Événement annoncé. Les dates des Regional Championships peuvent être précisées ou modifiées par les organisateurs. Vérifier magic.gg/schedule pour les mises à jour.
+END:VEVENT
+BEGIN:VEVENT
+UID:mtg-competitive-2027-7@openai
+DTSTAMP:20261117T141000Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270125
+SUMMARY:Regional Championship – USA (St. Louis)
+LOCATION:St. Louis\, Missouri\, USA
+CATEGORIES:Regional Championship
+DESCRIPTION:Événement annoncé. Les dates des Regional Championships peuvent être précisées ou modifiées par les organisateurs. Vérifier magic.gg/schedule pour les mises à jour.
+END:VEVENT
+BEGIN:VEVENT
+UID:mtg-competitive-2027-8@openai
+DTSTAMP:20261117T141000Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270125
+SUMMARY:Regional Championship – South America (São Paulo)
+LOCATION:São Paulo\, Brazil
+CATEGORIES:Regional Championship
+DESCRIPTION:Événement annoncé. Les dates des Regional Championships peuvent être précisées ou modifiées par les organisateurs. Vérifier magic.gg/schedule pour les mises à jour.
+END:VEVENT
+BEGIN:VEVENT
+UID:mtg-competitive-2027-9@openai
+DTSTAMP:20261117T141000Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270125
+SUMMARY:Regional Championship – Mexico/Central America/Caribbean (Mexico City)
+LOCATION:Mexico City\, Mexico
+CATEGORIES:Regional Championship
+DESCRIPTION:Événement annoncé. Les dates des Regional Championships peuvent être précisées ou modifiées par les organisateurs. Vérifier magic.gg/schedule pour les mises à jour.
+END:VEVENT
+BEGIN:VEVENT
+UID:mtg-competitive-2027-10@openai
+DTSTAMP:20261117T141000Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270207
+SUMMARY:Regional Championship – Canada (Vancouver)
+LOCATION:Vancouver\, British Columbia\, Canada
+CATEGORIES:Regional Championship
+DESCRIPTION:Événement annoncé. Les dates des Regional Championships peuvent être précisées ou modifiées par les organisateurs. Vérifier magic.gg/schedule pour les mises à jour.
+END:VEVENT
+BEGIN:VEVENT
+UID:mtg-competitive-2027-11@openai
+DTSTAMP:20261117T141000Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270208
+SUMMARY:Regional Championship – USA (San Diego)
+LOCATION:San Diego\, California\, USA
+CATEGORIES:Regional Championship
+DESCRIPTION:Événement annoncé. Les dates des Regional Championships peuvent être précisées ou modifiées par les organisateurs. Vérifier magic.gg/schedule pour les mises à jour.
+END:VEVENT
+BEGIN:VEVENT
+UID:mtg-competitive-2027-12@openai
+DTSTAMP:20261117T141000Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270208
+SUMMARY:Regional Championship – Australia/New Zealand (Melbourne)
+LOCATION:Melbourne\, Australia
+CATEGORIES:Regional Championship
+DESCRIPTION:Événement annoncé. Les dates des Regional Championships peuvent être précisées ou modifiées par les organisateurs. Vérifier magic.gg/schedule pour les mises à jour.
+END:VEVENT
+BEGIN:VEVENT
+UID:mtg-competitive-2027-13@openai
+DTSTAMP:20261117T141000Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270208
+SUMMARY:Regional Championship – Japan (Aichi)
+LOCATION:Aichi\, Japan
+CATEGORIES:Regional Championship
+DESCRIPTION:Événement annoncé. Les dates des Regional Championships peuvent être précisées ou modifiées par les organisateurs. Vérifier magic.gg/schedule pour les mises à jour.
+END:VEVENT
+BEGIN:VEVENT
+UID:mtg-competitive-2027-14@openai
+DTSTAMP:20261117T141000Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270215
+SUMMARY:Regional Championship – EMEA (Bilbao)
+LOCATION:Bilbao\, Spain
+CATEGORIES:Regional Championship
+DESCRIPTION:Événement annoncé. Les dates des Regional Championships peuvent être précisées ou modifiées par les organisateurs. Vérifier magic.gg/schedule pour les mises à jour.
+END:VEVENT
+BEGIN:VEVENT
+UID:mtg-competitive-2027-15@openai
+DTSTAMP:20261117T141000Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:Regional Championship – Chinese Taipei (Taipei City)
+LOCATION:Taipei City\, Taiwan
+CATEGORIES:Regional Championship
+DESCRIPTION:Événement annoncé. Les dates des Regional Championships peuvent être précisées ou modifiées par les organisateurs. Vérifier magic.gg/schedule pour les mises à jour.
+END:VEVENT
+END:VCALENDAR
